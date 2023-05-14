@@ -1,10 +1,8 @@
-# bottom_sheet_poc
-
-A new Flutter project.
+#Dexter Labs
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a lab for implementing doubts about flutter frameworks.
 
 A few resources to get you started if this is your first Flutter project:
 
