@@ -49,15 +49,9 @@ void main() {
     // await tester.tap(find.byType(FloatingActionButton));
     // await tester.pumpAndSettle();
 
-    // // verifique se o BottomSheet é exibido
-    // expect(find.text('Conteúdo do BottomSheet'), findsOneWidget);
-
     // toque no botão "Fechar"
     await tester.tap(find.byType(ElevatedButton));
     await tester.pumpAndSettle();
-
-    // verifique se a chamada goRouter.pop() foi executada
-    // aqui você pode substituir goRouter.pop() pela sua implementação
     verify(goRouter.pop()).called(1);
   });
 }
