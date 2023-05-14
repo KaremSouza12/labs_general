@@ -1,10 +1,16 @@
-#Dexter Labs
+# Dexter Labs
 
 ## Getting Started
 
-This project is a lab for implementing doubts about flutter frameworks.
+this project is a laboratory to implement doubts about the flutter framework, that is, it is a mess.
 
-A few resources to get you started if this is your first Flutter project:
+if you want run this project :
+
+```
+flutter pub get //to download dependencies
+flutter run  //to the execute 
+
+```
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
